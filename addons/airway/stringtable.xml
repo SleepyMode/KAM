@@ -409,6 +409,42 @@
             <Turkish>Yerleştiriliyor</Turkish>
             <Italian>Posizionando</Italian>
         </Key>
+        <Key ID="STR_kat_airway_action_placing_tube">
+            <English>Intubating patient</English>
+            <German>Setzen</German>
+            <Polish>Zakładanie</Polish>
+            <Spanish>Colocando</Spanish>
+            <Chinese>放置中</Chinese>
+            <Czech>Pokládám</Czech>
+            <Korean>배치</Korean>
+            <French>Mise en place d'un(e)</French>
+            <Turkish>Yerleştiriliyor</Turkish>
+            <Italian>Posizionando</Italian>
+        </Key>
+        <Key ID="STR_kat_airway_action_placing_guedel">
+            <English>Inserting oral airway device</English>
+            <German>Setzen</German>
+            <Polish>Zakładanie</Polish>
+            <Spanish>Colocando</Spanish>
+            <Chinese>放置中</Chinese>
+            <Czech>Pokládám</Czech>
+            <Korean>배치</Korean>
+            <French>Mise en place d'un(e)</French>
+            <Turkish>Yerleştiriliyor</Turkish>
+            <Italian>Posizionando</Italian>
+        </Key>
+        <Key ID="STR_kat_airway_action_placing_suction">
+            <English>Suctioning airway</English>
+            <German>Setzen</German>
+            <Polish>Zakładanie</Polish>
+            <Spanish>Colocando</Spanish>
+            <Chinese>放置中</Chinese>
+            <Czech>Pokládám</Czech>
+            <Korean>배치</Korean>
+            <French>Mise en place d'un(e)</French>
+            <Turkish>Yerleştiriliyor</Turkish>
+            <Italian>Posizionando</Italian>
+        </Key>
         <Key ID="STR_kat_airway_Larynx_Display">
             <English>King LT</English>
             <German>Larynxtubus</German>
