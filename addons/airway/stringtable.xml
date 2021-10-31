@@ -170,7 +170,7 @@
             <Italian>No</Italian>
         </Key>
         <Key ID="STR_kat_airway_message_obstruction_no">
-            <English>Airways are clear</English>
+            <English>Airways are not obstructed</English>
             <German>Atemwege sind frei</German>
             <Polish>Drogi oddechowe są czyste</Polish>
             <Spanish>Las vías aéreas están despejadas</Spanish>
@@ -182,7 +182,7 @@
             <Italian>Le vie aeree sono libere</Italian>
         </Key>
         <Key ID="STR_kat_airway_message_Occluded_no">
-            <English>No medical suction needed</English>
+            <English>airways are not occluded</English>
             <German>Absaugen nicht notwendig</German>
             <Polish>Brak konieczności odsysania</Polish>
             <Spanish>No se necesita succión médica</Spanish>
@@ -194,7 +194,7 @@
             <Italian>Aspirazione medica non necessaria</Italian>
         </Key>
         <Key ID="STR_kat_airway_message_obstruction_yes">
-            <English>Airway management needed</English>
+            <English>Airways are obstructed</English>
             <German>Atemwegsmanagement erforderlich</German>
             <Polish>Potrzebne udrażnianie dróg oddechowych</Polish>
             <Spanish>Requiere manejo de vías aéreas</Spanish>
@@ -206,7 +206,7 @@
             <Italian>Gestione delle vie aeree necessaria</Italian>
         </Key>
         <Key ID="STR_kat_airway_message_Occluded_yes">
-            <English>Medical suction needed</English>
+            <English>airways are occluded</English>
             <German>Absaugen notwendig</German>
             <Polish>Potrzebne odsysanie</Polish>
             <Spanish>Requiere succión médica</Spanish>
