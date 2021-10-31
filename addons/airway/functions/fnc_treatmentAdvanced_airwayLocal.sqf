@@ -25,7 +25,7 @@ if (_target getVariable ["KAT_medical_airwayOccluded", false]) exitWith {
 	if (_className isEqualTo "Guedeltubus") then {
 		[_caller, "kat_guedel"] call ace_common_fnc_addToInventory;
 	} else {
-	[_caller, "kat_larynx"] call ace_common_fnc_addToInventory;	
+	   [_caller, "kat_larynx"] call ace_common_fnc_addToInventory;	
 	};
     false;
 };
